@@ -1,0 +1,6 @@
+susypat_1_1_UOV.root
+susypat_2_1_MTp.root
+susypat_3_1_l6N.root
+susypat_4_2_DmQ.root
+susypat_5_1_fU1.root
+susypat_6_2_RbU.root
